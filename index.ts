@@ -54,17 +54,17 @@ console.log = function(...args){
   return originalLog(...nargs);
 }
 
-const message = 'joe ssn 123-45-3454';
+const message = "John Doe's SSN 123-45-3454";
 const obj = {
   test: message,
   ssn: '343-34-3444'
 };
 const arr = [
- 'hello: ssn is : 123-23-5555',
+  'hello: ssn is : 123-23-5555',
   'some number 123-34-1543'
 ];
 
-console.log('-------------');
+// console.log('-------------');
 console.log(message);
-console.log(obj);
-console.log(arr);
+// console.log(obj);
+// console.log(arr);
