@@ -64,7 +64,7 @@ const arr = [
   'some number 123-34-1543'
 ];
 
-// console.log('-------------');
+console.log('-------------');
 console.log(message);
-// console.log(obj);
-// console.log(arr);
+console.log(obj);
+console.log(arr);
